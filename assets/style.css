@@ -194,6 +194,10 @@ nav a {
 	z-index: 1;
 }
 
+.price{
+	font-weight: 800;
+	font-size: large;
+}
 #contact {
 	margin: auto;
 	background-color: #D8D3A8 ;
