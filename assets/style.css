@@ -215,6 +215,11 @@ nav a {
 	right: 0;
 	z-index: -1;
 }
+
+.picture.right img{
+	width: 418,67px;
+	height: 449,59px;
+}
 .form-container {
 	flex : 2;
 
