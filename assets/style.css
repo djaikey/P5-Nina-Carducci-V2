@@ -18,8 +18,8 @@ body {
 	align-items: center;
 }
 .imagehomme{
-	width: 1920px;
-	height: 888,09px;
+	/* attznte de plus de précision sur le pb*/
+
 }
 .top-header .name {
 	font-size: 26px;
