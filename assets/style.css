@@ -19,8 +19,8 @@ body {
 }
 .imagehomme{
 	/* attante de plus de précision sur le pb*/
-width: 100%;
-height: 100%;
+width: 9920px;
+height: 888px;
 object-fit: contain;
 }
 .top-header .name {
