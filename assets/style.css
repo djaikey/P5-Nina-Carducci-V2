@@ -17,12 +17,7 @@ body {
 	padding-block: 30px;
 	align-items: center;
 }
-.imagehomme{
-	/* attante de plus de précision sur le pb*/
-width: 9920px;
-height: 888px;
-object-fit: contain;
-}
+
 .top-header .name {
 	font-size: 26px;
 }
