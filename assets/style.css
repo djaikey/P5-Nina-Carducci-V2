@@ -104,12 +104,16 @@ nav a {
 .gallery .nav {
 	justify-content: center;
 }
-.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+ .nav-pills .nav-link:hover {
 	color: #fff;
-	background-color: #BEB45A;
-	border-radius:0 ;
+	background-color: #0d6efd;
+	border-radius:0,25 px ;
+} 
+.nav-pills .nav-link :active {
+	color: #fff;
+	background-color: #BEB45A;	
 }
-.nav-pills .nav-link {
+.nav-pills .nav-link .nav_i {
 	color: #000
 }
 .item-column {
