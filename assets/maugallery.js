@@ -139,7 +139,6 @@
           index = i;
         }
       });
-      // modale images collection bouton <
       next =
         imagesCollection[index - 1] ||
         imagesCollection[imagesCollection.length - 1];
@@ -174,7 +173,6 @@
           index = i;
         }
       });
-      // modale images collection bouton >
       next = imagesCollection[index + 1] || imagesCollection[0];
       $(".lightboxImage").attr("src", $(next).attr("src"));
     },
