@@ -104,7 +104,7 @@ nav a {
 .gallery .nav {
 	justify-content: center;
 }
- .nav-pills  .nav-link.active-tag {
+ .nav-pills  .nav-link {
 	color: #000;
 	background-color: #BEB45A;;
 	border-radius:0,25 px ;
@@ -112,7 +112,7 @@ nav a {
 
 .nav-pills .nav-link.active-tag {
 	color: #fff;
-	background-color: #BEB45A;	
+	background-color: #BEB45A !important;	
 }
 .nav-pills .nav-link .nav_i {
 	color: #000
