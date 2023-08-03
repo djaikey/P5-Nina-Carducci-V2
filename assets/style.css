@@ -23,7 +23,7 @@ body {
 }
 .header img {
 	width: 1920px;
-	height: 888,09px;
+	height: 888.09px;
 }
 nav ul {
 	display: flex;
@@ -107,7 +107,7 @@ nav a {
  .nav-pills  .nav-link {
 	color: #000;
 	background-color: #BEB45A;;
-	border-radius:0,25 px ;
+	border-radius:0.25 px ;
 } 
 
 .nav-pills .nav-link.active-tag {
@@ -226,8 +226,8 @@ nav a {
 }
 
 .picture.right img{
-	width: 418,67px;
-	height: 449,59px;
+	width: 418.67px;
+	height: 449.59px;
 }
 .form-container {
 	flex : 2;
