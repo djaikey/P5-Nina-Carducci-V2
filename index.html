@@ -243,13 +243,13 @@
 				<h2>Une question ? Une demande de devis ?</h2>
 				<p> N’hésitez pas à m’écrire ! Je vous répondrais en moins de 24 heures</p>
 				<form action="#" method="post">
-					<label>Nom</label>
+					<label for="name">Nom</label>
 					<!-- inputs ajout étiquettes for=""-->
-					<input for="name" type="text" name="nom" id="nom" aria-label="nom">
-					<label>Email</label>
-					<input for="email" type="email" name="email" id="email" aria-label="email">
-					<label>Message</label>
-					<textarea for="text" aria-label="message" name="message" id="message" cols="30" rows="10"
+					<input type="text" name="nom" id="nom" aria-label="nom">
+					<label for="email">Email</label>
+					<input type="email" name="email" id="email" aria-label="email">
+					<label for="text">Message</label>
+					<textarea aria-label="message" name="message" id="message" cols="30" rows="10"
 						placeholder="Écrire un message "></textarea>
 					<input aria-label="envoyer" type="submit" value="Envoyer">
 				</form>
