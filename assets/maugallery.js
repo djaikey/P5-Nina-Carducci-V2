@@ -139,6 +139,7 @@
           index = i;
         }
       });
+      //modifié
       next =
         imagesCollection[index - 1] ||
         imagesCollection[imagesCollection.length - 1];
@@ -173,6 +174,7 @@
           index = i;
         }
       });
+      //modifier
       next = imagesCollection[index + 1] || imagesCollection[0];
       $(".lightboxImage").attr("src", $(next).attr("src"));
     },
