@@ -35,36 +35,3 @@ Tu trouveras en pièce jointe une maquette de notre site en son état actuel.
 
 Sophie
 
-Sophie Vasseur - Fondatrice de l'agence La Panthère
-
-Compétences évaluées
-Optimiser la taille et la vitesse d’un site web
-
-Assurer l'accessibilité d'un site web
-
-Optimiser le référencement d'un site web
-
-Réaliser une recherche des bonnes pratiques en développement web
-
-Écrire un code HTML et CSS maintenable
-
-Evaluation
-Évaluation : samedi 16 juillet 2022
-
--> Projet validé
-Remarques sur l'évaluation
-Réaliser une recherche des bonnes pratiques en développement web
--> Validé.
-
-Optimiser le référencement d'un site web
--> Validé
-
-Optimiser la taille et la vitesse d’un site web
--> Validé.
-
-Assurer l'accessibilité d'un site web
--> Validé.
-
-Écrire un code HTML et CSS maintenable
--> Validé.
-
